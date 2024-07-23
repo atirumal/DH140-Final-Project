@@ -1,6 +1,6 @@
 # DH140 Final Project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atirumal/DH140-Final-Project/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atirumal/DH140-Final-Project/HEAD)
 
 ## Introduction 
 
