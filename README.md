@@ -30,7 +30,7 @@ Exploring how technology has transformed modern education systems can provide in
 ### Digital Preservation of Cultural Heritage
 The digital preservation of cultural heritage involves using technology to protect and maintain cultural artifacts and traditions. This topic is crucial for ensuring that cultural heritage is accessible to future generations, despite the challenges posed by time and environmental factors.
 
-### Additional Resources
+### Links
 - [Impact of Social Media on Mental Health](https://www.sciencedirect.com/science/article/abs/pii/S0747563219303723)
 - [The Role of Technology in Modern Education](https://education.purdue.edu/2024/01/how-has-technology-changed-education/)
 - [Digital Preservation of Cultural Heritage](https://doiserbia.nb.rs/img/doi/1820-0214/2021/1820-02142100009Z.pdf)
