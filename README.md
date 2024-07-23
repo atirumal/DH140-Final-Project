@@ -20,7 +20,7 @@ One specific study that caught my attention is the "Machine Learning Study Using
 
 I appreciate the correlation plot from this study because it effectively visualizes the relationships between multiple variables, making it easier to identify strong correlations and potential multicollinearity issues. This type of correlation plot is highly informative, as it provides a comprehensive overview of the data's structure and helps in selecting the most relevant predictors for further analysis. To create a similar correlation plot using Python, libraries such as seaborn, matplotlib, and pandas can be used for data manipulation and visualization.
 
-## Ideas for Data to Investigate
+## More Ideas for Data to Investigate
 ### Impact of Social Media on Mental Health
 The influence of social media on mental health is a pressing issue in today's digital age. Investigating this topic can shed light on how different social media platforms impact mental well-being and help identify potential interventions to mitigate negative effects.
 
@@ -35,7 +35,7 @@ The digital preservation of cultural heritage involves using technology to prote
 - [The Role of Technology in Modern Education](https://education.purdue.edu/2024/01/how-has-technology-changed-education/)
 - [Digital Preservation of Cultural Heritage](https://doiserbia.nb.rs/img/doi/1820-0214/2021/1820-02142100009Z.pdf)
 
-## Ideas from Curated Datasets & Project Lists
+## Additional Ideas from Curated Datasets & Project Lists
 Below are some curated datasets and project ideas that could be useful for further investigation and analysis:
 
 | Dataset Name                         | Description and Use                                                                                      | Link                                                                                                      |
