@@ -1,4 +1,5 @@
-beautifulsoup4
-matplotlib
-requests
 pandas
+nltk
+matplotlib
+networkx
+prophet
