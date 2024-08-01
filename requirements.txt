@@ -2,4 +2,6 @@ pandas
 nltk
 matplotlib
 networkx
-prophet
+scikit-learn
+numpy
+IPython
