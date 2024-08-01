@@ -1,17 +1,28 @@
 # DH140 Final Project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atirumal/DH140-Final-Project/main)
+Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atirumal/DH140-Final-Project/main)
 
-## Introduction 
+## Final Project
 
-Digital Humanities (DH) is an interdisciplinary field that merges traditional humanities disciplines such as literature, history, philosophy, and cultural studies with computational methods and digital technologies. The field leverages the power of digital tools and methodologies to analyze, interpret, and visualize humanities data, offering new insights and perspectives on age-old questions. 
+This project aims to explore public sentiment towards climate action using social media data, specifically tweets. By leveraging sentiment analysis techniques, I seek to understand how people feel about climate-related topics and how these sentiments have evolved over time. The central question driving this research is: **"How has public sentiment towards climate action changed over the years, and what factors influence these sentiments?"** 
 
-Coding for humanities, a crucial aspect of digital humanities, involves using programming languages and software to process and analyze humanities data. This approach not only enhances the efficiency and scope of research but also democratizes access to sophisticated analytical techniques.
+I will analyze the sentiment expressed in tweets to uncover trends, patterns, and shifts in public opinion. Through various visualizations and statistical analyses, this project will provide insights into the collective mood towards climate action and potentially highlight key moments and topics that have significantly impacted public sentiment.
 
-As a student intrigued by the intersection of humanities and technology, exploring the potential of coding within the realm of digital humanities offers a unique opportunity to contribute to this evolving field. By applying advanced computational methods to traditional humanities questions, we can unlock new dimensions of understanding and address contemporary social issues with greater depth and clarity.
+#### Other Considered Questions
+
+Initially, I had considered several other questions for this project:
+- **"What are the most discussed topics related to climate action on social media?"**
+- **"How do major climate-related events influence public sentiment on social media?"**
+- **"Is there a correlation between the sentiment of tweets and the engagement they receive (likes, retweets)?"**
+- **"How does sentiment towards climate action vary across different geographic regions?"**
+
+Ultimately, I narrowed it down to the central question of how public sentiment towards climate action has changed over time and the factors influencing these sentiments. This decision was made because understanding the evolution of sentiment provides a comprehensive view of public opinion trends and helps identify key moments that have shaped the discourse. Additionally, this question aligns well with the capabilities of sentiment analysis and offers clear, actionable insights for policymakers, activists, and researchers interested in climate action.
 
 
-## Data and Visualization of Interest
+## Previous Ideas
+These are previous ideas that I had, which explore the intersection of technology and social issues. However, I chose not to use them because they either required data that was difficult to access, had been extensively researched already, or did not align perfectly with my current research interests and available resources.
+
+### Data and Visualization of Interest
 The topic of applying advanced machine learning methods to predict poverty in Somalia interests me because it combines cutting-edge technology with critical social issues. As a student fascinated by the intersection of humanities and technology, I am particularly drawn to how machine learning (ML) can uncover hidden patterns and provide deeper insights into complex socio-economic phenomena like poverty. The potential of these techniques to identify key determinants of poverty and enhance the effectiveness of policy interventions is incredibly valuable, especially in regions facing significant data scarcity and economic challenges.
 
 One specific study that caught my attention is the "Machine Learning Study Using 2020 SDHS Data to Determine Poverty Determinants in Somalia." The study employs ML techniques to analyze the 2020 Somalia Demographic and Health Survey (SDHS) data, aiming to pinpoint the critical factors contributing to poverty in the region.
