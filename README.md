@@ -2,6 +2,8 @@
 
 Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atirumal/DH140-Final-Project/main)
 
+You can read the full project blog post [here](https://atirumal.github.io/DH140-Blog/posts/DH140-Final-Project.html).
+
 ## Final Project
 
 This project aims to explore public sentiment towards climate action using social media data, specifically tweets. By leveraging sentiment analysis techniques, I seek to understand how people feel about climate-related topics and how these sentiments have evolved over time. The central question driving this research is: **"How has public sentiment towards climate action changed over the years, and what factors influence these sentiments?"** 
